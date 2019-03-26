@@ -4,47 +4,48 @@ Precisamos de um(a) desenvolvedor(a) Frontend júnior, que irá participar do pr
 # Nossa empresa
 A Multiverse é uma empresa de marketing digital focada em performance, somos uma startup com uma cultura flexível com potencial de crescimento que daria inveja a qualquer unicórnio do vale do silício. Caso escolha trabalhar aqui, você não vai precisar de um "dress code" e nem precisa ficar puxando o saco do chefe, nosso trabalho é focado em habilidades da era digital como: copy, tráfego e novas tecnologias. Então se você quer trabalhar em uma empresa diferente das empresas tradicionais que te prendem dentro de um escritório das 9h às 18h, entra em contato com a gente!
 
-Local
+# Local
 Escritório, São Paulo/SP (15 minutos do metrô Tatuapé)
 
-Benefícios
-Flexibilidade de horário
-Dojo de aprendizado
-Cursos na Udemy
-Happy hour de sextas após as 15h
-Após período de adaptação, Home Office combinado 1x na semana
-Oportunidade de crescimento
-Ambiente de trabalho jovem e inovador
+# Benefícios
+- Flexibilidade de horário
+- Dojo de aprendizado
+- Cursos na Udemy
+- Happy hour de sextas após as 15h
+- Após período de adaptação, Home Office combinado 1x na semana
+- Oportunidade de crescimento
+- Ambiente de trabalho jovem e inovador
 
 # Requisitos
 **Obrigatórios:**
 
-Experiência em HTML5/CSS3/JS
-Conhecer AJAX
-Conceitos SPA
-Experiência com algum framework/lib JS
-Ter feito pelo menos uma requisição para API
-Conhecimentos de GIT/Terminal
+- Experiência em HTML5/CSS3/JS
+- Conhecer AJAX
+- Conceitos SPA
+- Experiência com algum framework/lib JS
+- Ter feito requisições para APIs
+- Conhecimentos de GIT/Terminal
 
 Diferenciais:
 
-Conhecer REST
-Docker
-ReactJS Hooks e/ou Redux
-Webpack/Babel config
-Testes(TDD)
-CDN
-Cache(Localstorage/IndexedDB)
+- Conhecer REST
+- Docker
+- Async/Await
+- ReactJS Hooks e/ou Redux
+- Webpack/Babel config
+- Testes(TDD)
+- CDN
+- Cache(Localstorage/IndexedDB)
 
 # Nosso Stack
-Docker
-ES6
-React/Redux/Hooks
-Webpack/Babel
-PHP 7.3.x / NGINX / MongoDB (Backend)
-Foco em Microsserviços
-2 Arquiteturas distintas (front e back)
-Testes
+- Docker
+- ES6+
+- React/Redux/Hooks
+- Webpack/Babel
+- PHP 7.3.x / NGINX / MongoDB (Backend)
+- Foco em Microsserviços
+- 2 Arquiteturas distintas (front e back)
+- Testes
 
 # Contratação
 PJ - Salário a combinar -
