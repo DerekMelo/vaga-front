@@ -27,9 +27,11 @@ Escritório, São Paulo/SP (15 minutos do metrô Tatuapé)
 - Experiência com algum framework/lib JS
 - Ter feito requisições para APIs
 - Conhecimentos de GIT/Terminal
+- Gostar de desenvolver Admin Template
 
 Diferenciais:
 
+- UX/UI
 - Conhecer REST
 - Docker
 - Async/Await
