@@ -55,4 +55,4 @@ Diferenciais:
 PJ - Salário a combinar -
 
 ## Contato
-Interessado(a) enviar CV para rh@multiversemkt.com
+Interessado(a) enviar CV para curriculum@multiversemkt.com
